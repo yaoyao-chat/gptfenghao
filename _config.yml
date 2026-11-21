@@ -1,0 +1,13 @@
+title: 'ChatGPT封号 2026：为什么被封、能不能解、会员钱怎么办'
+description: 'ChatGPT封号（2026-11）：先分清是不是封号、官方四类原因、申诉怎么提、封号后取消订阅和官方退款、换号重开；瑶瑶ai训练师商城 Plus ¥129，封号不保不退（店主自营）'
+lang: zh-CN
+theme: jekyll-theme-cayman
+exclude:
+  - LICENSE
+
+# 正本是 GitHub 仓库页，网页版的 canonical 指回 github.com 地址（jekyll-seo-tag 读 canonical_url）
+defaults:
+  - scope:
+      path: ""
+    values:
+      canonical_url: "https://github.com/yaoyao-chat/gptfenghao"
